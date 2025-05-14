@@ -1,0 +1,16 @@
+{
+  "name": "refraction-website",
+  "version": "1.0.0",
+  "description": "Refraction website for car dealerships",
+  "scripts": {
+    "dev": "serve public",
+    "build": "echo 'Using public directory directly'",
+    "vercel-build": "echo 'Using public directory directly'"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
